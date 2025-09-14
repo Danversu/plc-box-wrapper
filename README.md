@@ -42,7 +42,7 @@ Implemented in **CODESYS** with Ladder Logic + Structured Text.
 ## 📊 Project Diagrams
 
 ### 1. Machine & HMI
-![Box Wrapper Machine](https://github.com/BhaskarMandal/plc-box-wrapper/blob/diagrams/Screenshot%202025-09-14%20165219.png?raw=true)
+Screenshot 2025-09-14 165219.png
 
 ### 2. Wiring Diagram
 ![Wiring Diagram](https://github.com/BhaskarMandal/plc-box-wrapper/blob/diagrams/Screenshot%202025-09-14%20165837.png?raw=true)
