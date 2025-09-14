@@ -39,6 +39,24 @@ Implemented in **CODESYS** with Ladder Logic + Structured Text.
 
 ---
 
+## 📊 Project Diagrams
+
+### 1. Machine & HMI
+![Box Wrapper Machine](https://github.com/BhaskarMandal/plc-box-wrapper/blob/diagrams/Screenshot%202025-09-14%20165219.png?raw=true)
+
+### 2. Wiring Diagram
+![Wiring Diagram](https://github.com/BhaskarMandal/plc-box-wrapper/blob/diagrams/Screenshot%202025-09-14%20165837.png?raw=true)
+
+### 3. Sensors & Connections
+![Sensors & Connections](https://github.com/BhaskarMandal/plc-box-wrapper/blob/diagrams/Screenshot%202025-09-14%20165906.png?raw=true)
+
+### 4. Control Flowchart
+![Control Flowchart](https://github.com/BhaskarMandal/plc-box-wrapper/blob/diagrams/Screenshot%202025-09-14%20165950.png?raw=true)
+
+### 5. Ladder Logic Implementation
+![Ladder Logic](https://github.com/BhaskarMandal/plc-box-wrapper/blob/diagrams/Screenshot%202025-09-14%20170020.png?raw=true)
+
+
 ## 📜 Example Code (Structured Text)
 
 ```pascal
